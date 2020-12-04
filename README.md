@@ -1,16 +1,29 @@
-### Hi there 👋
+## Pablo Verly <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+@simbiosecode 
 
-<!--
-**p43lo/p43lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![pabloverly GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabloverly&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou Pablo, Analista de Sistemas a mais de 10 anos. Full Stack Developer e entusiasta de open source do Brasil.
+
+Principais Atividades
+
+* Sql/PLSQL (ORACLE, MSSQL, MYSQL/MARIADB, FIREBIRD, NoSQL ....... )
+* Javascript/Typescript
+  * React
+  * ReactNative
+* C# (.net)
+
+ERP - Planejamento de Recurso da empresa
+ * EMR -  Registro Medico Eletronico
+ * HIS - Sistema de Informação Hospitalar
+ * LIS - Sistema de Informação Laboratorial
+ * PACS - Arquivamento de Imagem- SE  Sistema Estrategico
+ * RIS - Sistema de Informação de Radiologia
+ * GPS - Gestão de Plano de saude
+
+
+### Simbiosecode
+https://github.com/SimbioseCode
+
+![](https://avatars2.githubusercontent.com/u/36868154?s=200&v=4)
